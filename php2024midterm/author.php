@@ -16,7 +16,7 @@ if ($_SESSION["login"] == "author") {
     echo"<input type = 'text' name='name'><br/>";
     echo"作者Email:";
     echo"<input type = 'email' name='email'><br/>";
-    echo"論文摘要:<textarea name='comment' rows='20'cols='50'>";
+    echo"論文摘要:<textarea name='summary' rows='20'cols='50'>";
     echo"</textarea></br>";
     echo "<input type='submit'>";
     echo"</br>";
