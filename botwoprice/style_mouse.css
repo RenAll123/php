@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    padding: 0;
+  }
+
+.cursor{
+    position: fixed;
+    width: 32px;
+    height: 32px;
+    background-image: url('mouse_cat.png');
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    transform: translate(-60%, -60%);
+    transition: .50s;
+}

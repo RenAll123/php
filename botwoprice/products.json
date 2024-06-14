@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name":" 早餐界不敗神話",
+        "price": 50,
+        "image": "image/eat_1.png"
+    },
+    {
+        "id": 2,
+        "name":" 觀光客最愛-三色戰神",
+        "price": 100,
+        "image": "image/eat_2.png"
+    },
+    {
+        "id": 3,
+        "name":" 草料(韓國空運)",
+        "price": 120,
+        "image": "image/eat_3.png"
+    },
+    {
+        "id": 4,
+        "name":" 卡拉雞腿吃飽堡",
+        "price": 200,
+        "image": "image/eat_4.png"
+    },
+    {
+        "id": 5,
+        "name":" 喜歡半熟還是全熟?",
+        "price": 100,
+        "image": "image/eat_5.png"
+    },
+    {
+        "id": 6,
+        "name":" 我是真的不能控制我隻雞",
+        "price": 80,
+        "image": "image/eat_6.png"
+    },
+    {
+        "id": 7,
+        "name":" 蛤?",
+        "price": 10,
+        "image": "image/eat_7.png"
+    },
+    {
+        "id": 8,
+        "name":" 月底的我",
+        "price": 600,
+        "image": "image/eat_8.png"
+    },
+    {
+        "id": 9,
+        "name":" MYSTERY BOX",
+        "price": 666,
+        "image": "image/eat_9.png"
+    }
+]
